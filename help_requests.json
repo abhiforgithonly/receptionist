@@ -1,0 +1,24 @@
+[
+  {
+    "id": "REQ_1761660464_0",
+    "caller_id": "playground-KJ2g-BJ6C",
+    "question": "Is the pricing",
+    "audio_transcript": "Is the pricing",
+    "status": "resolved",
+    "created_at": "2025-10-28T19:37:44.579543",
+    "resolved_at": "2025-10-28T19:38:16.250835",
+    "supervisor_answer": "its 2 dollars",
+    "timeout_at": "2025-10-28T21:37:44.579543"
+  },
+  {
+    "id": "REQ_1761670526_1",
+    "caller_id": "playground-Lrqc-F8Ch",
+    "question": "Do you work?",
+    "audio_transcript": "Do you work?",
+    "status": "pending",
+    "created_at": "2025-10-28T22:25:26.510740",
+    "resolved_at": null,
+    "supervisor_answer": null,
+    "timeout_at": "2025-10-29T00:25:26.510740"
+  }
+]

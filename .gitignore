@@ -1,2 +1,96 @@
-venv/
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+logs/
+agent.log
+
+# Database files (if you add SQLite later)
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Model cache (Hugging Face models)
+models/
+.cache/
+huggingface/
+
+# Audio/Video files (if recording calls)
+*.wav
+*.mp3
+*.mp4
+recordings/
+
+# OS specific
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# LiveKit specific
+.livekit/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+
+
+# Streamlit cache
+.streamlit/
